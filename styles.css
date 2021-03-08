@@ -1,0 +1,427 @@
+
+header
+
+.banner{
+	background-image: url(images/428.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.container{
+	
+	padding-top:50px;
+	margin:0 auto;
+	width:80%;
+	
+	
+
+}
+.logo{
+	float:left;
+	width:22%;
+	
+}
+.logo h1{
+	margin-bottom: 0;
+	    margin-top: 0px;
+	font-family: sans-serif;
+	display: block;
+	font-weight: 300;
+	    font-size: 50px;
+
+	width:100%;
+
+}
+.logo h2{
+	    margin-top: 0;
+	    margin-left: 38px;
+	display: block;
+	font-weight: 300;
+	    font-size: 20px;
+
+}
+.menu{
+	margin-right: 35px;
+	float:right;
+	width:54%;
+
+}
+.menu ul{
+	float:right;
+
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	font-size: 22px;
+	margin:0 22px;
+	padding:3px 3px;
+	color:#010001;
+	display:inline-block;
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	text-transform: capitalize;
+
+}
+
+
+.text2{
+	padding-top: 180px;
+      
+	text-align: center;
+
+}
+.text2 h1{
+	    margin-bottom: 0;
+	font-family: sans-serif;
+	display: block;
+	font-size: 30px;
+	font-weight: 300;
+	color:black;
+
+
+}
+.text2 h2{
+	margin-top: 6px;
+	font-family: sans-serif;
+	display: block;
+
+	font-size: 42px;
+	font-weight: bold;
+	color:black;
+
+}
+
+/*header end*/
+.load{
+	text-align: center;
+
+}
+.load button{
+	margin:109px 0px;
+	width:165px;
+	height: 60px;
+	background-color: transparent;
+	border:1px solid #151414;
+	font-family:'playfair Display', serif;
+	font-size: 30px;
+	font-weight: 400;
+	color:#1fce14;
+	cursor: pointer;
+	transition: .5s;
+
+}
+.load button:hover{
+	background-color:black;
+	color:white;
+}
+
+
+
+
+/*gcontent*/
+.web{
+	overflow: hidden;
+	
+}
+
+	.g-content{
+	
+	margin-left: 140px;
+	width:50%;
+	padding:75px 0;
+	display: block;
+	float: left;
+width:35%;
+
+}
+
+.c-h1{
+	margin:20px 0 30px;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+.c-p{
+	margin-top: 0;
+	margin-bottom: 50px;
+	line-height: 24px;
+	letter-spacing: 1px;
+}
+.icon{
+	
+display:inline-block;
+padding-right:232px;
+	width:53%;
+	float:right;
+
+}
+.icon img{
+widows: 100%;
+}
+
+/*gcontent end*/
+
+/*web2 start*/
+.icon2{
+display:inline-block;
+padding-left:110px;
+width:44%;
+float:left;
+
+}
+.icon2 img{
+width:100%;
+}
+
+.g-content2{
+	    margin-top: 54px;
+	    padding-right:210px;
+	width:50%;
+	display: block;
+	float:right;
+width:53%;
+
+}
+
+.c-h12{
+	margin:20px 0 30px;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+.c-p1{
+	margin-top: 0;
+	margin-bottom: 50px;
+	line-height: 24px;
+	letter-spacing: 1px;
+}
+
+
+
+/*web2 end*/
+
+/*brand start*/
+.brand{
+	    padding-bottom: 40px;
+	margin:0 auto;
+	overflow: hidden;
+	width: 57%;
+
+
+}
+.container2{
+	    margin-left: 100px;
+	float: left;
+	overflow: hidden;
+	width: 29%;
+}
+.single{
+overflow: hidden;
+	
+	float:right;
+}
+
+.icon3{
+	float: left;
+	    display: inline-block;
+	width:31%;
+
+}
+.icon img{
+width: 100%;
+}
+.icon-brand{
+
+
+}
+.icon-brand h1{
+	text-transform: capitalize;
+}
+.text1{
+	    padding-top: 0px;
+
+
+}
+.text p{
+
+	font-family: sans-serif;
+	line-height: 1.5;
+
+}
+
+.container3{
+	overflow: hidden;
+	width: 31%;
+	float: right;
+}
+
+
+/*brand end*/
+
+
+/*awsome start*/
+.clint{
+	padding-bottom: 20px;
+	margin:0 auto;
+	width: 80%;
+
+}
+.awso{
+ text-align: center;
+}
+.awso h1{
+	    margin-bottom: 0;
+	font-size: 60px;
+	font-family: sans-serif;
+	text-transform: capitalize;
+	font-weight: bold;
+
+
+}
+.awso p{
+	font-size: 23px;
+	font-family: sans-serif;
+	color: #777777;
+}
+.clintt{
+	color:blue;
+}
+/*awsome end*/
+
+.lastone{
+	background-color:#0DEBF7;
+}
+.container9{
+	margin:0 auto;
+	width:80%;
+}
+.edit{
+	margin-bottom: 10px;
+	font-size:23px;
+	font-family: sans-serif;
+	text-transform: capitalize;
+
+
+}
+.retw{
+	    padding-bottom: 31px;
+    padding-top: 26px;
+	width: 50%;
+}
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* style the container */
+.container10 {
+  position: relative;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px 0 30px 0;
+} 
+
+/* style inputs and link buttons */
+input,
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+/* add appropriate colors to fb, twitter and google buttons */
+.fb {
+  background-color: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+
+.google {
+  background-color: #dd4b39;
+  color: white;
+}
+
+/* style the submit button */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Two-column layout */
+.col {
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* vertical line */
+.vl {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  border: 2px solid #ddd;
+  height: 175px;
+}
+
+/* text inside the vertical line */
+.vl-innertext {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 8px 10px;
+}
+
+/* hide some text on medium and large screens */
+.hide-md-lg {
+  display: none;
+}
+
+/* bottom container */
+.bottom-container {
+  text-align: center;
+  background-color: #666;
+  border-radius: 0px 0px 4px 4px;
+}
